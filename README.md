@@ -18,7 +18,7 @@ Projeto desenvolvido pelo curso da B7WEB
 <br>
 
 <p align="center">
-  <img alt="" src="./assets/calculoimc.png" width="100%">
+  <img src="C:\Users\tiagotml\Desktop\B7Web\Curso React\imc_react\src\assets\calculoimc.png" alt="calculadora imc"/>
 </p>
 
 ## 🚀 Tecnologias
